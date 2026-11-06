@@ -2,6 +2,8 @@
 Aqui estara lo que usaremos para la creación de la app
 
 Paolo:
+
+
 Nombre de la funcion: evaluar_riesgo_traslado
 Propósito: Identificar si un trabajador tiene un traslado de alto riesgo para ayudar a Recursos Humanos a detectar quiénes necesitan apoyo.
 Parámetros:
