@@ -2,6 +2,8 @@
 
 **Integrante:** Paolo Humberto Luce Martínez.
 
+**Otra entrega:** [D4 - Gate2: Inicio de LlegaBien, captura y código de WinHome](D4-Gate2/README.md).
+
 Esta carpeta contiene mi evidencia individual de la ventana `win_canvas.py`: la captura de las gráficas, mi explicación de los cambios y mi versión del código.
 
 ## Mi versión
