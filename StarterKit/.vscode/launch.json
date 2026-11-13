@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "TC1038 Starter App",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/app/main.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
