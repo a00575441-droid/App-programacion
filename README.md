@@ -1,4 +1,13 @@
 # App-programacion
+
+## LlegaBien — versión integrada
+
+[Descargar la versión integrada de LlegaBien](LlegaBien-version-integrada.zip)
+
+El ZIP contiene la versión integrada de la aplicación.
+
+---
+
 Propuesta de mejora de la app
 
 LlegaBien
